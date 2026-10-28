@@ -10,15 +10,7 @@ The goal was to balance product storytelling with a clean and conversion-focused
 
 ## My Role
 
-Product Designer
-
-- Product positioning
-- UX/UI Design
-- Landing page structure
-- Visual direction
-- Responsive design
-- Prototyping
-- AI-assisted development
+AI Product Builder | Design Engineer | AI-Assisted Developer
 
 ## Key Sections
 
